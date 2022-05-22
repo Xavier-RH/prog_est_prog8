@@ -9,7 +9,7 @@ Presenta el uso de:
   <ul>
     <li>printf para mostrar el mensaje en terminal</li>
     <li>scanf para ingresar datos</li>
-    <li>Operacion matemáticas básicas</li>
+    <li>Operaciones matemáticas</li>
     <li>El uso de #include para añadir librerias</li>
   </ul>
 </p>
